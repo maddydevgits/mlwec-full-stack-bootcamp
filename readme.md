@@ -44,21 +44,21 @@
   <tr>
     <td>8</td>
     <td>Insert Documents using Node Script</td>
-    <td>MongoDB</td>
+    <td>Node</td>
   </tr>
   <tr>
     <td>9</td>
     <td>Read Documents using Node Script</td>
-    <td>MongoDB</td>
+    <td>Node</td>
   </tr>
   <tr>
     <td>10</td>
     <td>Update Document using Node Script</td>
-    <td>MongoDB</td>
+    <td>Node</td>
   </tr>
   <tr>
     <td>11</td>
     <td>Remove Documents using Node Script</td>
-    <td>MongoDB</td>
+    <td>Node</td>
   </tr>
 </table>
