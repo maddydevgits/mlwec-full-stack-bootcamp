@@ -61,4 +61,24 @@
     <td>Remove Documents using Node Script</td>
     <td>Node</td>
   </tr>
+  <tr>
+    <td>12</td>
+    <td>Launch API Server</td>
+    <td>Express</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Read Data from URL</td>
+    <td>Express</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Write API to insert data</td>
+    <td>Express</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Write API to read data</td>
+    <td>Express</td>
+  </tr>
 </table>
